@@ -6,4 +6,4 @@ completely original solution to find minimal possible square
 constructed by classics tetrominos via bruteforce (original too).
 
 # Animation
-<img src="./animation.gig">
+<img src="./animation.gif" width="500">
